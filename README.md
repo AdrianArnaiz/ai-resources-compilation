@@ -1,11 +1,23 @@
-# Resources
+## Resources
+
+Table of Contents
+------------------------------
+
+- [Linear Algebra and Calculus](#linear-algebra-and-calculus)
+- [Statistics](#statistics)
+- [General Machine and Deep Learning](#Machine-and-Deep-Learning)
+- [Reinforcement Learning](#Reinforcement-Learning)
+- [Network Science](#network-science)
+- [Graph Neural Networks a.k.a. Graph Machine Learning](#graph-neural-networks-aka-graph-machine-learning-aka-graph-representation-learning-aka-geometric-deep-learning)
+- [NeuroScience](#neuroscience)
+- [ML-Ops](#ml-ops)
 
 ### Linear Algebra and Calculus
 > Learn Linear Algebra and Calculus to understand and play with all the roots of Statistics and Deep Learning
  - *| [Course](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/) - [Videos](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek) - [Slides](https://ocw.mit.edu/resources/res-18-010-a-2020-vision-of-linear-algebra-spring-2020/videos/MITRES_18_010S20_LA_Slides.pdf)  |* **G. Stang crach course (MIT): *A 2020 Vision of Linear Algebra***
  - *| [Course](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) - [Book1](http://math.mit.edu/~gs/everyone/) - [Book2](http://math.mit.edu/~gs/learningfromdata/) - [Videos](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)|* **G. Stang Course MIT 18.06 and books for Linear Algebra and its relationship with DL: *Linear Algebra***
  - *| [Book](http://databookuw.com/databook.pdf) - [Videos](https://www.youtube.com/c/Eigensteve/playlists) - [Code](http://databookuw.com/) |* **Steve Burton book: *Data Driven Science & Engineering***: Videos and code also available
- - *| [Course](https://www.coursera.org/specializations/mathematics-machine-learning) - [VideosLA](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - [VideosCA](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)  |* **Imerial College London: *Mathematics for Machine Learning: Linear Algebra and Multivariate Calculus***: Coursera Course and Youtube videos
+ - *| [Course](https://www.coursera.org/specializations/mathematics-machine-learning) - [VideosLA](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3) - [VideosCA](https://www.youtube.com/playlist?list=PLiiljHvN6z193BBzS0Ln8NnqQmzimTW23)  |* **Imperial College London: *Mathematics for Machine Learning: Linear Algebra and Multivariate Calculus***: Coursera Course and Youtube videos
 
 ### Statistics
 > Learn the most pure statistics to understand and analyze every model
@@ -15,7 +27,7 @@
  - *| [Course](http://mlg.eng.cam.ac.uk/teaching/4f13/1920/) |* **C. E. Rasmussen University of Cambridge 4f13 Course: *Probabilistic Machine Learning***
  - *| [Code](https://github.com/Pakillo/LM-GLM-GLMM-intro) - [Slides](https://github.com/Pakillo/LM-GLM-GLMM-intro/blob/trees/GLMs2pdf.pdf) |* **Francisco Rodríguez-Sánchez: *Introduction to Linear, Generalized, and Mixed/Multilevel models with R***
 
-### ML & DL 
+### Machine and Deep Learning 
 > General Courses of Machine and Deep Learning. These courses cover broad topics of ML and DL. Some of them deepen more in maths, other focus in CNN, other in GNN...
  - *| [Course](https://atcold.github.io/pytorch-Deep-Learning/) - [Code](https://github.com/Atcold/pytorch-Deep-Learning)|* **Yann LeCun & Alfredo Canziani course of DL**: web, slides, videos and code explaining broad topics of DL: Maths behind methods, Graph Neural Networks (GNN), Energy Based Models (EBM)...
  - *| [Course](http://uvadlc.github.io/) |* **University of Amsterdam Course *Deep Learning***: general DL topics, EBM, GNN...
@@ -29,7 +41,7 @@
  - *| [Book&Code](https://github.com/fastai/fastbook) |* **FastAI book: Fastai and Pytorch course and code** 
  
 
-### RL
+### Reinforcement Learning
 > Train an agent through an observation-action-reward cycle to maximize the reward. From DeepBlue to MuZero they are children of this field.
 
 <img src="https://render.githubusercontent.com/render/math?math=P(S_{t+1}\mid S_t) = P(S_{t+1}\mid S_1, ..., S_N)">
