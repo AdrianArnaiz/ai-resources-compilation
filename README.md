@@ -1,7 +1,8 @@
-## Resources
+## Broad AI resources
 
-Table of Contents
-------------------------------
+Video lectures, Courses, Code, Books, papers, pdfs and so on (mostly free).
+
+**Table of Contents**
 
 - [Linear Algebra and Calculus](#linear-algebra-and-calculus)
 - [Statistics](#statistics)
@@ -11,6 +12,8 @@ Table of Contents
 - [Graph Neural Networks a.k.a. Graph Machine Learning](#graph-neural-networks-aka-graph-machine-learning-aka-graph-representation-learning-aka-geometric-deep-learning)
 - [NeuroScience](#neuroscience)
 - [ML-Ops](#ml-ops)
+
+**************************
 
 ### Linear Algebra and Calculus
 > Learn Linear Algebra and Calculus to understand and play with all the roots of Statistics and Deep Learning
