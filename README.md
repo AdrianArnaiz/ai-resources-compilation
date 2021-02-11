@@ -2,6 +2,8 @@
 
 > TL;DR Go to the [resources](#resources)
 
+> Resources are in continous ampliation. <br> Contributions, suggestions are corrections are very welcome.
+
 Every topic about AI is widely studied. It becomes difficult for noobs (and I guess for everyone) to find and select the proper resources to start learning about some of them. That's why I have made this compilation of materials to learn about different topics of AI.
 
 The idea arise because, lately, I am gathering some amazing resources to start learning about GNN's, and I found very helpful to gather all of them in a same place. But this compilation wants to cover <hl>all the trajectory of the Machine Learning learning path</hl>
