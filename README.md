@@ -1,6 +1,17 @@
-## Broad AI resources
+## Compilation AI Resources from Linear Algebra to GNN, RL or NeuroScience
 
-Video lectures, Courses, Code, Books, papers, pdfs and so on (mostly free).
+> TL;DR Go to the [resources](#resources)
+
+Every topic about AI is widely studied. It becomes difficult for noobs (and I guess for everyone) to find and select the proper resources to start learning about some of them. That's why I have made this compilation of materials to learn about different topics of AI.
+
+The idea arise because, lately, I am gathering some amazing resources to start learning about GNN's, and I found very helpful to gather all of them in a same place. But this compilation wants to cover {{< hl >}}all the trajectory of the Machine Learning learning path{{< /hl >}}: Starting from Maths, **Linear Algebra and Calculus**, going through **Statistics**, specific and also broad **Machine and Deep Learning** Courses and finally leading to cutting-edge areas like **Graph Neural Networks**, **Reinforcement Learning** or **Neuroscience**. *Watch G. Stang (MIT) [Diagram](https://images-na.ssl-images-amazon.com/images/I/91NJExMOoqL.jpg) of Deep Learning learning path.*
+
+Therefore, I have gathered every useful resource I found through many platforms. There are **MOOCs**, **Courses**, **Video Lectures**, **Slides**, **Code**, **Books**, **PDFs**, **Papers**... And, the best thing it's that most of them are {{< hl >}}free{{< /hl >}}. Courses usually have videos, slides, code and/or books attached to the main page. The code is mostly stored in {{< icon name="github-square" pack="fab" >}} GitHub repositories and coded in {{< icon name="python" pack="fab" >}} Python or {{< icon name="r-project" pack="fab" >}} R. You will see that some resources are starting point and another requires a higher level of knowledge of the topic, but, with all of them you can build an awesome own track which will cover all the learning path.
+
+This is mi little piece of help in the trip of discovering amazing teaching and academic material. I know there are tons and tons of outstanding resources online and other compilations about [ML](https://github.com/luspr/awesome-ml-courses) or [CS](https://github.com/Developer-Y/cs-video-courses). But this is my personal selection. However, I always encourage to discover more books, courses (MOOCs or actually university open courses), blog posts or Githubs or **papers**. 
+
+The best way to get to the cutting-edge level of any topic is being aware of the latest papers and academic publications of the researches of that topic. Following top researchers on Twitter are very helpful, they promote papers and research as soon as they publish them. However, **this list of resources tries to ease this exciting path**.
+
 
 **Table of Contents**
 
@@ -14,6 +25,7 @@ Video lectures, Courses, Code, Books, papers, pdfs and so on (mostly free).
 - [ML-Ops](#ml-ops)
 
 **************************
+## Resources 
 
 ### Linear Algebra and Calculus
 > Learn Linear Algebra and Calculus to understand and play with all the roots of Statistics and Deep Learning
