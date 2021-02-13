@@ -25,7 +25,7 @@ The best way to get to the cutting-edge level of any topic is being aware of the
 | [General Machine and Deep Learning](#Machine-and-Deep-Learning) |
 | [Reinforcement Learning](#Reinforcement-Learning) |
 | [Network Science](#network-science) |
-| [Graph Neural Networks a.k.a. Graph Machine Learning](#graph-neural-networks-aka-graph-machine-learning-aka-graph-representation-learning-aka-geometric-deep-learning) |
+| [Graph Neural Networks a.k.a. Geometric Deep Learning](#graph-neural-networks-aka-graph-machine-learning-aka-graph-representation-learning-aka-geometric-deep-learning) |
 | [NeuroScience](#neuroscience) |
 | [ML-Ops](#ml-ops) |
 
