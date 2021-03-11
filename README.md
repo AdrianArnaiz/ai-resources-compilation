@@ -25,7 +25,7 @@ The best way to get to the cutting-edge level of any topic is being aware of the
 | [General Machine and Deep Learning](#Machine-and-Deep-Learning) |
 | [Reinforcement Learning](#Reinforcement-Learning) |
 | [Network Science](#network-science) |
-| [Graph Neural Networks a.k.a. Geometric Deep Learning](#graph-neural-networks-aka-graph-machine-learning-aka-graph-representation-learning-aka-geometric-deep-learning) |
+| [Graph Neural Networks a.k.a. Geometric Deep Learning](#Graph-Neural-Networks) |
 | [NeuroScience](#neuroscience) |
 | [ML-Ops](#ml-ops) |
 
@@ -77,7 +77,8 @@ The best way to get to the cutting-edge level of any topic is being aware of the
 > Graph and networks theory. While it doesn’t deepen into GNNs, it is an excellent resource to get strong foundations for operating on graphs
  - *| [Book](http://networksciencebook.com/) |* **Network Science Book by Albert-László Barabási**
 
-### Graph Neural Networks a.k.a. Graph Machine Learning a.k.a. Graph Representation Learning a.k.a. Geometric Deep Learning
+### Graph Neural Networks
+Graph Neural Networks a.k.a. Graph Machine Learning a.k.a. Graph Representation Learning a.k.a. Geometric Deep Learning
 > Combination of graph theory (NS) and ML-DL to boost the potential flexibility applications of AI. DL dealing with graph data.
 
  - *| [Book](https://www.cs.mcgill.ca/~wlh/grl_book/) |* **William Hamilton Book: *Graph Representation Learning***
